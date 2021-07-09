@@ -1,6 +1,6 @@
 # Welcome to my first project with C#
 
-​## You will find in this repo:
+## You will find in this repo:
 
 * Window form C# project
 
